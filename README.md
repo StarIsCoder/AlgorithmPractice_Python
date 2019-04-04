@@ -11,3 +11,5 @@ Some practice about algorithm based on python
 4.ContainerWithMostWater.py - 根据坐标取得最大乘积
 
 5.RemoveNodeFromEnd.py - 从末尾计数删除节点
+
+6.rotate_string_to_other.py - 判断一个字串是否能通过平移变成另一个
